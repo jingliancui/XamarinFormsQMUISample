@@ -3,7 +3,13 @@ Sample for showing QMUI on xamarin.forms
 
 Tutorial:
 
+Android
+
 https://mp.weixin.qq.com/s/SRAaSK8bRskoovVcfewV3g
+
+iOS
+
+https://mp.weixin.qq.com/s/Oc9sVPL3zrOE-m__I9iYpw
 
 QQ Group:313308215
 
