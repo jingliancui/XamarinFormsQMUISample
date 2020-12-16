@@ -5,7 +5,7 @@ Tutorial:
 
 Android
 
-https://mp.weixin.qq.com/s/SRAaSK8bRskoovVcfewV3g
+https://mp.weixin.qq.com/s/xfyw3_CTWVM8GdJstdr2sg
 
 iOS
 
